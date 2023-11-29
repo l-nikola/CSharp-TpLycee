@@ -1,0 +1,14 @@
+C:\Users\fouka\source\repos\Bloc2SlamProj1\Bloc2SlamProj1\bin\Debug\netcoreapp3.1\Bloc2SlamProj1.exe
+C:\Users\fouka\source\repos\Bloc2SlamProj1\Bloc2SlamProj1\bin\Debug\netcoreapp3.1\Bloc2SlamProj1.deps.json
+C:\Users\fouka\source\repos\Bloc2SlamProj1\Bloc2SlamProj1\bin\Debug\netcoreapp3.1\Bloc2SlamProj1.runtimeconfig.json
+C:\Users\fouka\source\repos\Bloc2SlamProj1\Bloc2SlamProj1\bin\Debug\netcoreapp3.1\Bloc2SlamProj1.runtimeconfig.dev.json
+C:\Users\fouka\source\repos\Bloc2SlamProj1\Bloc2SlamProj1\bin\Debug\netcoreapp3.1\Bloc2SlamProj1.dll
+C:\Users\fouka\source\repos\Bloc2SlamProj1\Bloc2SlamProj1\bin\Debug\netcoreapp3.1\Bloc2SlamProj1.pdb
+C:\Users\fouka\source\repos\Bloc2SlamProj1\Bloc2SlamProj1\obj\Debug\netcoreapp3.1\Bloc2SlamProj1.csproj.AssemblyReference.cache
+C:\Users\fouka\source\repos\Bloc2SlamProj1\Bloc2SlamProj1\obj\Debug\netcoreapp3.1\Bloc2SlamProj1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fouka\source\repos\Bloc2SlamProj1\Bloc2SlamProj1\obj\Debug\netcoreapp3.1\Bloc2SlamProj1.AssemblyInfoInputs.cache
+C:\Users\fouka\source\repos\Bloc2SlamProj1\Bloc2SlamProj1\obj\Debug\netcoreapp3.1\Bloc2SlamProj1.AssemblyInfo.cs
+C:\Users\fouka\source\repos\Bloc2SlamProj1\Bloc2SlamProj1\obj\Debug\netcoreapp3.1\Bloc2SlamProj1.csproj.CoreCompileInputs.cache
+C:\Users\fouka\source\repos\Bloc2SlamProj1\Bloc2SlamProj1\obj\Debug\netcoreapp3.1\Bloc2SlamProj1.dll
+C:\Users\fouka\source\repos\Bloc2SlamProj1\Bloc2SlamProj1\obj\Debug\netcoreapp3.1\Bloc2SlamProj1.pdb
+C:\Users\fouka\source\repos\Bloc2SlamProj1\Bloc2SlamProj1\obj\Debug\netcoreapp3.1\Bloc2SlamProj1.genruntimeconfig.cache
